@@ -1,0 +1,3938 @@
+[
+  {
+    "name": "Tshipuke Tets",
+    "studentNumber": 34327320.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:22:03.961000"
+  },
+  {
+    "name": "Mabodi Vhuthuhawe ",
+    "studentNumber": 24018893.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:29:13.990000"
+  },
+  {
+    "name": "Mashao Lerato",
+    "studentNumber": 25000312.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:32:03.078000"
+  },
+  {
+    "name": "Ligege Mulondi",
+    "studentNumber": 26026435.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:32:49.694000"
+  },
+  {
+    "name": "Tshishonge  OC",
+    "studentNumber": 24044206.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:33:10.728000"
+  },
+  {
+    "name": "Mashele NS",
+    "studentNumber": 25001040.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:33:20.513000"
+  },
+  {
+    "name": "Rammela Naume Bridget ",
+    "studentNumber": 26006255.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:33:21.009000"
+  },
+  {
+    "name": "Namatai Kimberly Nhodo ",
+    "studentNumber": 25028121.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:33:24.272000"
+  },
+  {
+    "name": "Mothomogolo Maropeng ",
+    "studentNumber": 25019234.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T13:33:53.924000"
+  },
+  {
+    "name": "Manjoro Covenant Mosekalema",
+    "studentNumber": 24028240.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:33:56.263000"
+  },
+  {
+    "name": "Mudau muano ",
+    "studentNumber": 25029528.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:33:59.696000"
+  },
+  {
+    "name": "Chauke Chantelle ",
+    "studentNumber": 25059740.0,
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:33:59.889000"
+  },
+  {
+    "name": "Tshegofatso Ramaboea",
+    "studentNumber": 26085178.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:34:09.600000"
+  },
+  {
+    "name": "Rivisi Musa",
+    "studentNumber": 26054227.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:34:09.920000"
+  },
+  {
+    "name": "Thorne Mokolo",
+    "studentNumber": 25022726.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:34:11.133000"
+  },
+  {
+    "name": "Asivhothe Goodness Khobo ",
+    "studentNumber": 25004449.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:34:11.265000"
+  },
+  {
+    "name": "Muleya Matodzi ",
+    "studentNumber": 24036457.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:34:13.766000"
+  },
+  {
+    "name": "Shiviri Ripfumelo",
+    "studentNumber": 23029100.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:34:18.517000"
+  },
+  {
+    "name": "Mudumela Mashaka ",
+    "studentNumber": 26095456.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:34:31.964000"
+  },
+  {
+    "name": "Malimatswana vhulenda ",
+    "studentNumber": 26046474.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:34:32.906000"
+  },
+  {
+    "name": "Mnqobi Khoza",
+    "studentNumber": 24056977.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:34:40.604000"
+  },
+  {
+    "name": "Hlayisani Mboweni",
+    "studentNumber": 25032719.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:34:43.405000"
+  },
+  {
+    "name": "Vele Adivhaho ",
+    "studentNumber": 26015046.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:34:44.936000"
+  },
+  {
+    "name": "NEMALALE LOVENESS KHANO ",
+    "studentNumber": 24011636.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:34:47.715000"
+  },
+  {
+    "name": "Ayanda Solane",
+    "studentNumber": 25037830.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:34:51.477000"
+  },
+  {
+    "name": "Dakalo Makhavhu ",
+    "studentNumber": 24064940.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:34:53.078000"
+  },
+  {
+    "name": "Munyai Pfadzani Emmanuel Junior",
+    "studentNumber": 24012581.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:34:53.315000"
+  },
+  {
+    "name": "Ugoda Muhulu ",
+    "studentNumber": 25016024.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:34:54.534000"
+  },
+  {
+    "name": "Selala Athalia Ngwakwane ",
+    "studentNumber": 26104690.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:35:01.424000"
+  },
+  {
+    "name": "MAKHUBELA RISHILE GIFT",
+    "studentNumber": 26041428.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:35:02.311000"
+  },
+  {
+    "name": "Sheila Ezra Hobyani ",
+    "studentNumber": 23027180.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:35:04.622000"
+  },
+  {
+    "name": "Baladzi Hlangano Clenkie ",
+    "studentNumber": 25003938.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:35:04.719000"
+  },
+  {
+    "name": "Manyike Masingita Ethan ",
+    "studentNumber": 25014208.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:35:05.329000"
+  },
+  {
+    "name": "Sebastion mulaudzi ",
+    "studentNumber": 23034019.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:35:06.253000"
+  },
+  {
+    "name": "Rathogwa Zwavhudi ",
+    "studentNumber": 25093215.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:35:09.408000"
+  },
+  {
+    "name": "Sibuyi Lungile ",
+    "studentNumber": 25085740.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:35:13.723000"
+  },
+  {
+    "name": "Netshianane Rodzula ",
+    "studentNumber": 25027326.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:35:15.592000"
+  },
+  {
+    "name": "Ngonyama Hletelo belly",
+    "studentNumber": 24025492.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:35:17.360000"
+  },
+  {
+    "name": "Kgoshiadira Machuene Briliend ",
+    "studentNumber": 25078463.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:35:19.931000"
+  },
+  {
+    "name": "Mulaudzi Fulufhelo Christina ",
+    "studentNumber": 26020919.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:35:22.934000"
+  },
+  {
+    "name": "Kamogelo Phalakatsela ",
+    "studentNumber": 23030814.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:35:24.024000"
+  },
+  {
+    "name": "Ndou Tshedza",
+    "studentNumber": 22009886.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:35:30.882000"
+  },
+  {
+    "name": "Ndou Zwavhudi Lovey",
+    "studentNumber": 26045991.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:35:32.182000"
+  },
+  {
+    "name": "Netshivhale Uapfa Nicole ",
+    "studentNumber": 26030599.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:35:36.112000"
+  },
+  {
+    "name": "Mavhusha Elelwani",
+    "studentNumber": 26016993.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:35:39.891000"
+  },
+  {
+    "name": "Maphiri vusani ",
+    "studentNumber": 26042738.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:35:40.455000"
+  },
+  {
+    "name": "Netshivhale Ndingamulanga",
+    "studentNumber": 25008892.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:35:44.259000"
+  },
+  {
+    "name": "Shai Lebogang Emely ",
+    "studentNumber": 25061526.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:35:46.764000"
+  },
+  {
+    "name": "Museana Mashudu Wayne Gift",
+    "studentNumber": 25057038.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:35:49.532000"
+  },
+  {
+    "name": "Ravele Nyawasedza Maria ",
+    "studentNumber": 26008492.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:35:54.058000"
+  },
+  {
+    "name": "Nemukula Mulinda",
+    "studentNumber": 25059652.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:35:59.517000"
+  },
+  {
+    "name": "Makhaga Mulweli Knowledge ",
+    "studentNumber": 26034761.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T13:36:02.155000"
+  },
+  {
+    "name": "Ratidzai Munyaradzi ",
+    "studentNumber": 25063417.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:36:02.315000"
+  },
+  {
+    "name": "Munzhedzi Thuso Mikovhe ",
+    "studentNumber": 26022569.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:36:03.153000"
+  },
+  {
+    "name": "Seakamela Kabelo Shurlyn",
+    "studentNumber": 26047460.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:36:04.171000"
+  },
+  {
+    "name": "Molele Dimpho Patience ",
+    "studentNumber": 25066504.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:36:07.061000"
+  },
+  {
+    "name": "Pfano",
+    "studentNumber": 26065068.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:36:08.681000"
+  },
+  {
+    "name": "Adaho Mudau",
+    "studentNumber": 26104317.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T13:36:15.809000"
+  },
+  {
+    "name": "Mutavhatsindi mukovhe victory ",
+    "studentNumber": 25030420.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:36:18.814000"
+  },
+  {
+    "name": "Phetho Nkosi",
+    "studentNumber": 25024102.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:36:20.524000"
+  },
+  {
+    "name": "Mugeri orifha",
+    "studentNumber": 26044370.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:36:23.107000"
+  },
+  {
+    "name": "Mphangane Malesele Jim",
+    "studentNumber": 26039088.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:36:24.103000"
+  },
+  {
+    "name": "Ratshibvumo Muwanwa",
+    "studentNumber": 26071563.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:36:25.380000"
+  },
+  {
+    "name": "Maapeya Nthopo Vinolia ",
+    "studentNumber": 25002053.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:36:31.636000"
+  },
+  {
+    "name": "Boledi Kgaditse ",
+    "studentNumber": 25080561.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:36:38.302000"
+  },
+  {
+    "name": "Kamohelo Mmusi",
+    "studentNumber": 25092539.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:36:42.213000"
+  },
+  {
+    "name": "Raseluma Uhone ",
+    "studentNumber": 25077081.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:36:42.343000"
+  },
+  {
+    "name": "Adivhaho ",
+    "studentNumber": 26090840.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:37:01.101000"
+  },
+  {
+    "name": "Lethabo Ramalekana ",
+    "studentNumber": 24006971.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:37:01.271000"
+  },
+  {
+    "name": "Mmuroa Allilah Bokamoso ",
+    "studentNumber": 25012389.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:37:17.617000"
+  },
+  {
+    "name": "Rambau N.C",
+    "studentNumber": 26055686.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:37:18.152000"
+  },
+  {
+    "name": "Khanyisa Tshepiso Makamu ",
+    "studentNumber": 25075978.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:37:32.329000"
+  },
+  {
+    "name": "Ramalata Innocent Mutshidzi ",
+    "studentNumber": 26051330.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:37:37.705000"
+  },
+  {
+    "name": "Netshikhudini mpho",
+    "studentNumber": 26042117.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:37:39.656000"
+  },
+  {
+    "name": "Maluleke Nkhaviso Patricia ",
+    "studentNumber": 25029352.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:37:41.758000"
+  },
+  {
+    "name": "Muthelo Zwovhonala",
+    "studentNumber": 25020464.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:37:46.759000"
+  },
+  {
+    "name": "MASHABA ANDZISO VENESA ",
+    "studentNumber": 26012828.0,
+    "lab": "Lab 8",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:37:48.231000"
+  },
+  {
+    "name": "Mutsusi Lebogang Morgan",
+    "studentNumber": 25001741.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T13:37:50"
+  },
+  {
+    "name": "Ranenyeni Ntsako",
+    "studentNumber": 25014171.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:37:51.859000"
+  },
+  {
+    "name": "Nkosi Cordeliar Bongekile",
+    "studentNumber": 24030887.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:37:52.189000"
+  },
+  {
+    "name": "Mkhombo Pardon ",
+    "studentNumber": 26067232.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:37:53.454000"
+  },
+  {
+    "name": "Ramovha Tshilidzi ",
+    "studentNumber": 24013624.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:38:03.018000"
+  },
+  {
+    "name": "SONDLANI CONTRAST SHALATI ",
+    "studentNumber": 25040181.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:38:06.453000"
+  },
+  {
+    "name": "MOGOWANE TLALENG TSHEPO ",
+    "studentNumber": 25003052.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:38:08.115000"
+  },
+  {
+    "name": "Tshabuse Ampfarisaho",
+    "studentNumber": 26001239.0,
+    "lab": "Lab 7",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:38:13.359000"
+  },
+  {
+    "name": "Mashaba Natasha",
+    "studentNumber": 24034971.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:38:13.944000"
+  },
+  {
+    "name": "Choeu lethabo ",
+    "studentNumber": 23007056.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T13:38:21.591000"
+  },
+  {
+    "name": "Pandelani khuthadzo ",
+    "studentNumber": 26041002.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:38:24.186000"
+  },
+  {
+    "name": "Patel Soha",
+    "studentNumber": 26004495.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:38:34.479000"
+  },
+  {
+    "name": "Ndhlovu Quintin ",
+    "studentNumber": 24055635.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:38:42.598000"
+  },
+  {
+    "name": "Munyai Muvhumbi ",
+    "studentNumber": 25004661.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:38:44.751000"
+  },
+  {
+    "name": "Vhudzikadzika mukundi ",
+    "studentNumber": 23023590.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:38:56.337000"
+  },
+  {
+    "name": "KAPA JONATHAN ",
+    "studentNumber": 25088904.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:38:58.379000"
+  },
+  {
+    "name": "Mabuye Thabiso ",
+    "studentNumber": 25028772.0,
+    "lab": "Lab 7",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:39:04.798000"
+  },
+  {
+    "name": "Tshwarelo Manyaka",
+    "studentNumber": 24010078.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:39:05.131000"
+  },
+  {
+    "name": "Muleya Muimeleli ",
+    "studentNumber": 25091599.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:39:06.138000"
+  },
+  {
+    "name": "Munarini Phathutsheddzo ",
+    "studentNumber": 26061004.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:39:06.908000"
+  },
+  {
+    "name": "Manenzhe Zwoitwaho Heaven ",
+    "studentNumber": 24049873.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:39:13.816000"
+  },
+  {
+    "name": "Mudivhiwazwothe Wiseman",
+    "studentNumber": 23003349.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:39:24.821000"
+  },
+  {
+    "name": "VUTIVI VICTOR SHIKWAMBANA ",
+    "studentNumber": 26005309.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:39:27.736000"
+  },
+  {
+    "name": "Tshindane mulweli ",
+    "studentNumber": 26048966.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:39:31.619000"
+  },
+  {
+    "name": "Mabunda Loveness Vukona ",
+    "studentNumber": 25018771.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:39:31.700000"
+  },
+  {
+    "name": "Andile monday",
+    "studentNumber": 24033988.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:39:32.050000"
+  },
+  {
+    "name": "Nemakonde Mulweli ",
+    "studentNumber": 25033741.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:39:42.744000"
+  },
+  {
+    "name": "Khoza Andile Monday ",
+    "studentNumber": 24033988.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:39:43.738000"
+  },
+  {
+    "name": "Shudufhadzo Nephawe",
+    "studentNumber": 26105179.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:39:44.608000"
+  },
+  {
+    "name": "Morudu Ntebo",
+    "studentNumber": 25000298.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:39:51.650000"
+  },
+  {
+    "name": "Shiyimo Nkanyani",
+    "studentNumber": 24035977.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:39:54.236000"
+  },
+  {
+    "name": "Makhado Vhulenda Traver ",
+    "studentNumber": 25024691.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:40:11.910000"
+  },
+  {
+    "name": "Pfano Olga Manyatshe ",
+    "studentNumber": 24060514.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:40:12.701000"
+  },
+  {
+    "name": "RAGANYA S.P",
+    "studentNumber": 24016279.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:40:40.313000"
+  },
+  {
+    "name": "Mavhetha Murendeni ",
+    "studentNumber": 26049148.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:40:48.245000"
+  },
+  {
+    "name": "Dembe Leshiba",
+    "studentNumber": 25035135.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:40:49.286000"
+  },
+  {
+    "name": "Muhashela masindi",
+    "studentNumber": 25008872.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:40:50.457000"
+  },
+  {
+    "name": "Zimbili Amukelani ",
+    "studentNumber": 25003728.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:40:56.012000"
+  },
+  {
+    "name": "Nhlayiseko Mathebula ",
+    "studentNumber": 26094960.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:40:58.831000"
+  },
+  {
+    "name": "Lalumbe mukovhe",
+    "studentNumber": 25045426.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:41:07.110000"
+  },
+  {
+    "name": "Andile Monday ",
+    "studentNumber": 24033988.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:41:08.397000"
+  },
+  {
+    "name": "Lidala Nduvho Rinae",
+    "studentNumber": 26015337.0,
+    "lab": "Lab 8",
+    "day": "Friday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T13:41:16.976000"
+  },
+  {
+    "name": "Mncedisi Lekuba ",
+    "studentNumber": 26078222.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:41:54.607000"
+  },
+  {
+    "name": "Mabila mashudu junior ",
+    "studentNumber": 26047269.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:41:57.132000"
+  },
+  {
+    "name": "Leballo Vuyo Ethan ",
+    "studentNumber": 25039225.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:42:00.524000"
+  },
+  {
+    "name": "Chiloane kgomotso",
+    "studentNumber": 23035601.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:42:08.822000"
+  },
+  {
+    "name": "Zwivhuya ",
+    "studentNumber": 25004017.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:42:18.602000"
+  },
+  {
+    "name": "Masutha Mulweli ",
+    "studentNumber": 26038177.0,
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:42:19.883000"
+  },
+  {
+    "name": "khoabane Aphiwe",
+    "studentNumber": 25007655.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:42:25.305000"
+  },
+  {
+    "name": "Senyolo Paulinah ",
+    "studentNumber": 24017011.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:42:46.799000"
+  },
+  {
+    "name": "Yonela Liwani",
+    "studentNumber": 24055170.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:42:49.799000"
+  },
+  {
+    "name": "Manyatshe Matamela",
+    "studentNumber": 25006206.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:42:57.479000"
+  },
+  {
+    "name": "Monki Lisakhanya ",
+    "studentNumber": 26066508.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:43:00.506000"
+  },
+  {
+    "name": "Thobejane Garaipha ",
+    "studentNumber": 25039324.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:43:20.516000"
+  },
+  {
+    "name": "Mojela Thabo Louis ",
+    "studentNumber": 24030481.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:43:43.093000"
+  },
+  {
+    "name": "Muguru Tshifhiwa Suprise",
+    "studentNumber": 24009182.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:43:47.175000"
+  },
+  {
+    "name": "Ratshikombo Luvhani Sharon ",
+    "studentNumber": 23020613.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:43:50.613000"
+  },
+  {
+    "name": "Nkuna Zenth",
+    "studentNumber": 24017667.0,
+    "lab": "Lab 7",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:43:56.418000"
+  },
+  {
+    "name": "Mamafha Tshilidzi",
+    "studentNumber": 24026523.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:44:09.436000"
+  },
+  {
+    "name": "Mmatshepo Nurse ",
+    "studentNumber": 25092728.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:44:25.605000"
+  },
+  {
+    "name": "Makhado Unarine ",
+    "studentNumber": 26060310.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:44:36.432000"
+  },
+  {
+    "name": "Phuluwa Mulalo ",
+    "studentNumber": 25074864.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:44:54.379000"
+  },
+  {
+    "name": "Mutepe Zwonaka ",
+    "studentNumber": 26008753.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:45:00.948000"
+  },
+  {
+    "name": "Mmbengeni Mudau ",
+    "studentNumber": 26094732.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:45:18.349000"
+  },
+  {
+    "name": "Hadzhi Fp",
+    "studentNumber": 24029582.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:45:30.123000"
+  },
+  {
+    "name": "Mbedzi Zwoluga",
+    "studentNumber": 26013645.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:45:31.480000"
+  },
+  {
+    "name": "OMPHULUSA PERCY ",
+    "studentNumber": 24048289.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:46:03.881000"
+  },
+  {
+    "name": "Mutavhatsindi Tenda",
+    "studentNumber": 24075770.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:46:09.020000"
+  },
+  {
+    "name": "Abednico Mathye",
+    "studentNumber": 25086290.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:46:12.437000"
+  },
+  {
+    "name": "Munjedzi Karabo Calvin ",
+    "studentNumber": 24039534.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:46:17.629000"
+  },
+  {
+    "name": "Abednico Mathye",
+    "studentNumber": 25086290.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:46:26.392000"
+  },
+  {
+    "name": "Sunday Phiri ",
+    "studentNumber": 23024130.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:46:33.184000"
+  },
+  {
+    "name": "Asive Zuziwe ",
+    "studentNumber": 25006398.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:46:54.182000"
+  },
+  {
+    "name": "Mapotsane Mahlatsi Morris ",
+    "studentNumber": 26032531.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:47:03.718000"
+  },
+  {
+    "name": "Musenwa Rotondwa ",
+    "studentNumber": 26061336.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:47:05.469000"
+  },
+  {
+    "name": "Maoko Tshepo",
+    "studentNumber": 24018171.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:47:15.545000"
+  },
+  {
+    "name": "Velly mahlaule",
+    "studentNumber": 24000545.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:47:34.636000"
+  },
+  {
+    "name": "Matloha Gundo Hope ",
+    "studentNumber": 25088908.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:47:40.140000"
+  },
+  {
+    "name": "Phahlamohlaka Conny Raesibe ",
+    "studentNumber": 24028532.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:48:17.606000"
+  },
+  {
+    "name": "Lehlabi Andile",
+    "studentNumber": 26050986.0,
+    "lab": "Lab 9",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T13:48:23.553000"
+  },
+  {
+    "name": "Siala Rotondwa",
+    "studentNumber": 26036661.0,
+    "lab": "Lab 9",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T13:48:25.913000"
+  },
+  {
+    "name": "Shivambu Civilise ",
+    "studentNumber": 26042659.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:48:29.246000"
+  },
+  {
+    "name": "Blessing Tshivhenga",
+    "studentNumber": 25088116.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:49:59.281000"
+  },
+  {
+    "name": "Muano khorommbi",
+    "studentNumber": 24051648.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:50:00.276000"
+  },
+  {
+    "name": "Humbulani Maurice ",
+    "studentNumber": "Mathoma",
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:50:21.314000"
+  },
+  {
+    "name": "Nhlanhla Rabolani ",
+    "studentNumber": 26008966.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:50:25.640000"
+  },
+  {
+    "name": "Makhubele ntokoto ENERGY ",
+    "studentNumber": 26018721.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T13:50:27.154000"
+  },
+  {
+    "name": "Muano khorommbi",
+    "studentNumber": 24051648.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:50:41.324000"
+  },
+  {
+    "name": "Luthada zwivhuya martin",
+    "studentNumber": 24019967.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:50:43.087000"
+  },
+  {
+    "name": "Sesike Moyahabo Cristina ",
+    "studentNumber": 26019168.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:51:03.792000"
+  },
+  {
+    "name": "Sekakampa Sharon Rasetu ",
+    "studentNumber": 25037619.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:51:22.052000"
+  },
+  {
+    "name": "Sitholimela Rudzani",
+    "studentNumber": 24014761.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:51:40.524000"
+  },
+  {
+    "name": "Koena Adolf Makgobokwane",
+    "studentNumber": 25049174.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:51:47.902000"
+  },
+  {
+    "name": "Lulama Noleen Mashaba",
+    "studentNumber": 26059120.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:51:54.768000"
+  },
+  {
+    "name": "Sinthumule Adivhaho",
+    "studentNumber": 24012818.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:52:39.606000"
+  },
+  {
+    "name": "Ambani Netshirembe",
+    "studentNumber": 26001152.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:53:04.988000"
+  },
+  {
+    "name": "Ramabulana Rudzani ",
+    "studentNumber": 25000845.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:53:17.411000"
+  },
+  {
+    "name": "Mahlalela Charlotte Jeanet ",
+    "studentNumber": 25000561.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:53:56.698000"
+  },
+  {
+    "name": "Kolobe Selepe",
+    "studentNumber": 26007499.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:54:11.047000"
+  },
+  {
+    "name": "Ronewa Rapudi ",
+    "studentNumber": 26069303.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T13:54:16.760000"
+  },
+  {
+    "name": "Marule Respect Tebogo ",
+    "studentNumber": 26018523.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:55:27.921000"
+  },
+  {
+    "name": "Eneto Admire Mayimele",
+    "studentNumber": 26034177.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:55:43.886000"
+  },
+  {
+    "name": "Masikhwa Divhani Tyron",
+    "studentNumber": 26072281.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:55:57.085000"
+  },
+  {
+    "name": "Ramasimu murendeni",
+    "studentNumber": 26006894.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:55:59.032000"
+  },
+  {
+    "name": "Machema Rendani Welcome ",
+    "studentNumber": 26051008.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:57:15.309000"
+  },
+  {
+    "name": "DIKISO Asenathi",
+    "studentNumber": 24025084.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:57:28.719000"
+  },
+  {
+    "name": "Machema Rendani Welcome ",
+    "studentNumber": 26051008.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T13:57:50.527000"
+  },
+  {
+    "name": "Hobyane Tinyiko Domenique",
+    "studentNumber": 25032541.0,
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T13:57:57.306000"
+  },
+  {
+    "name": "Kerryn Malungana ",
+    "studentNumber": 23030026.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T13:58:10.894000"
+  },
+  {
+    "name": "Fhulufhelo Mantsha ",
+    "studentNumber": 23029751.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:58:19.442000"
+  },
+  {
+    "name": "Kharilwele Granny",
+    "studentNumber": 25019662.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:58:23.364000"
+  },
+  {
+    "name": "Mbhonny Maluleke ",
+    "studentNumber": 25002288.0,
+    "lab": "Lab 7",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T13:59:27.931000"
+  },
+  {
+    "name": "Mugari Andani",
+    "studentNumber": 24010703.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:01:30.685000"
+  },
+  {
+    "name": "Rolivhuwa ",
+    "studentNumber": 24018286.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:02:35.806000"
+  },
+  {
+    "name": "Ndiimane Emmanuel  Netshivhumbe ",
+    "studentNumber": 23015171.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:03:10.661000"
+  },
+  {
+    "name": "Netshivhumbe Ndiimane Emmanuel ",
+    "studentNumber": 23015171.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:03:49.686000"
+  },
+  {
+    "name": "Mudzanani Riise Precious ",
+    "studentNumber": 26006661.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T14:04:03.822000"
+  },
+  {
+    "name": "Chirindza Nkheso Florido",
+    "studentNumber": 25031406.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:04:36.692000"
+  },
+  {
+    "name": "khangale Fhulufhelo ",
+    "studentNumber": 23011716.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:05:08.573000"
+  },
+  {
+    "name": "Sikhwai phathutshedzo ",
+    "studentNumber": 23015256.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T14:05:34.034000"
+  },
+  {
+    "name": "Ramadi Daryl Raluvhi ",
+    "studentNumber": 26008794.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:06:26.650000"
+  },
+  {
+    "name": "Magoro mtshengiseni desire ",
+    "studentNumber": 26041886.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:08:23.739000"
+  },
+  {
+    "name": "Zwonaka Tshamano",
+    "studentNumber": 25035147.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:10:05.055000"
+  },
+  {
+    "name": "MUFUNWAINI THEMBANI ",
+    "studentNumber": 24015794.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:10:06.481000"
+  },
+  {
+    "name": "Rovhona Rasikhinya ",
+    "studentNumber": 26019266.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:11:35.005000"
+  },
+  {
+    "name": "Ditshego ",
+    "studentNumber": 26054616.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:13:17.025000"
+  },
+  {
+    "name": "Rasebeshela kamogelo ",
+    "studentNumber": 24040314.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:13:29.357000"
+  },
+  {
+    "name": "Ratshivhadelo Ankonisaho ",
+    "studentNumber": 26044210.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:14:42.367000"
+  },
+  {
+    "name": "Ratshivhadelo Ankonisaho ",
+    "studentNumber": 26044210.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:15:20.192000"
+  },
+  {
+    "name": "Mukwevho Rudzani ",
+    "studentNumber": 26029563.0,
+    "lab": "Lab 8",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:17:29.686000"
+  },
+  {
+    "name": "Faith Mulondo ",
+    "studentNumber": 24041226.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:18:48.705000"
+  },
+  {
+    "name": "Mavhuthu Wavhudi ",
+    "studentNumber": 24021527.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:21:07.397000"
+  },
+  {
+    "name": "Lutendo Maremeni",
+    "studentNumber": 23032980.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:21:22.063000"
+  },
+  {
+    "name": "Munyai mashudu Prescious ",
+    "studentNumber": 24030674.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:24:31.889000"
+  },
+  {
+    "name": "Rammbuda mashudu ",
+    "studentNumber": 25034254.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:25:45.566000"
+  },
+  {
+    "name": "Mahlatse Herbet mpanamana ",
+    "studentNumber": 26085739.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:26:51.265000"
+  },
+  {
+    "name": "Mulamuleli Fumba",
+    "studentNumber": 25048060.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:27:47.977000"
+  },
+  {
+    "name": "Charity Funzani",
+    "studentNumber": 24046160.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:27:52.993000"
+  },
+  {
+    "name": "Thobejane Garaipha ",
+    "studentNumber": 2103756122.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:28:15.469000"
+  },
+  {
+    "name": "Thobejane Garaipha ",
+    "studentNumber": 25039324.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:28:52.535000"
+  },
+  {
+    "name": "Mangane KB",
+    "studentNumber": 25063514.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:29:31.452000"
+  },
+  {
+    "name": "Manenzhe Masha Sharon ",
+    "studentNumber": 25017385.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T14:30:03.415000"
+  },
+  {
+    "name": "Mbengwa MISHACK",
+    "studentNumber": 25035651.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:30:35.121000"
+  },
+  {
+    "name": "Rebecca Kemigisha",
+    "studentNumber": 25032268.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T14:32:29.828000"
+  },
+  {
+    "name": "Ramaano Mukundi Comfort ",
+    "studentNumber": 25035990.0,
+    "lab": "Lab 9",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T14:34:22.598000"
+  },
+  {
+    "name": "Malinda Thembuluwo ",
+    "studentNumber": 26036184.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:35:33.994000"
+  },
+  {
+    "name": "Mudau zwonaka ",
+    "studentNumber": 25042649.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T14:36:50.082000"
+  },
+  {
+    "name": "Ramudzuli Ronewa ",
+    "studentNumber": 24026215.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T14:36:56.915000"
+  },
+  {
+    "name": "Phathutshedzo Mudau ",
+    "studentNumber": 24026772.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T14:36:57.641000"
+  },
+  {
+    "name": "Nemaranzhe Dakalo Oluga",
+    "studentNumber": 26010796.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:37:04.660000"
+  },
+  {
+    "name": "LIKHONA SHUDUFHADZO",
+    "studentNumber": 26057053.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:40:06.741000"
+  },
+  {
+    "name": "Mashilo kasandra ",
+    "studentNumber": 25032321.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T14:41:00.893000"
+  },
+  {
+    "name": "Mulaudzi mpho ",
+    "studentNumber": 23003173.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:41:13.824000"
+  },
+  {
+    "name": "Mashilo kasandra ",
+    "studentNumber": 25032321.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T14:42:20.066000"
+  },
+  {
+    "name": "Akonaho Netshituni ",
+    "studentNumber": 25058693.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:44:58.047000"
+  },
+  {
+    "name": "Akonaho Netshituni ",
+    "studentNumber": 25058693.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:45:29.267000"
+  },
+  {
+    "name": "Fhumulani Mafannzhoni ",
+    "studentNumber": 26021513.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:48:50.844000"
+  },
+  {
+    "name": "Rilwele phungo promise ",
+    "studentNumber": 26015445.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T14:51:43.792000"
+  },
+  {
+    "name": "Mukwevho Zweranewa",
+    "studentNumber": 25092531.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T14:52:45.983000"
+  },
+  {
+    "name": "Junior Malekana ",
+    "studentNumber": 26074623.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T14:52:59.488000"
+  },
+  {
+    "name": "Mashumu Pelekwane ",
+    "studentNumber": 26087036.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T14:55:59.953000"
+  },
+  {
+    "name": "Khumalo Matimba",
+    "studentNumber": 25000577.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T14:57:31.438000"
+  },
+  {
+    "name": "Ndou Atsebang ",
+    "studentNumber": 25060236.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T14:58:38.166000"
+  },
+  {
+    "name": "Makhuvha Ndivho",
+    "studentNumber": 26021885.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:02:33.430000"
+  },
+  {
+    "name": "BENEVOLENT MANYAMA",
+    "studentNumber": 24009361.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:03:32.138000"
+  },
+  {
+    "name": "PHUMUDZO RAMARU",
+    "studentNumber": 25069436.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:03:50.672000"
+  },
+  {
+    "name": "Ntshayintshayi Henneck Ashton",
+    "studentNumber": 26046127.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T15:03:55.691000"
+  },
+  {
+    "name": "Maebane Mokgadi Hellen ",
+    "studentNumber": 26089590.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T15:05:18.436000"
+  },
+  {
+    "name": "Hlungwani Ntwanano Ethane",
+    "studentNumber": 25052688.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T15:05:37.145000"
+  },
+  {
+    "name": "VELE MULALO TREVOR ",
+    "studentNumber": 25013415.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:05:53.236000"
+  },
+  {
+    "name": "MMATLADI KOPANO ",
+    "studentNumber": 26105940.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:07:12.753000"
+  },
+  {
+    "name": "TSHIKOSI NDIVHUWO KERIN",
+    "studentNumber": 25076330.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:08:39.877000"
+  },
+  {
+    "name": "Mushwana Faith Nyeleti ",
+    "studentNumber": 26033465.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T15:09:33.580000"
+  },
+  {
+    "name": "Setlako Mokgadi Auden",
+    "studentNumber": 25064940.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:10:45.349000"
+  },
+  {
+    "name": "Mulweli Radzilani",
+    "studentNumber": 26001240.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T15:10:52.313000"
+  },
+  {
+    "name": "Phora Realeboga",
+    "studentNumber": 26103666.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:13:44.076000"
+  },
+  {
+    "name": "Manena Rotondwa ",
+    "studentNumber": 24077533.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:13:52.803000"
+  },
+  {
+    "name": "muano khorommbi",
+    "studentNumber": 24051648.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:14:12.400000"
+  },
+  {
+    "name": "Gogovhela Vuledzani ",
+    "studentNumber": 26029686.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:15:05.121000"
+  },
+  {
+    "name": "Thuso Angel Rasetsoke ",
+    "studentNumber": 24021123.0,
+    "lab": "Lab 7",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:16:05.222000"
+  },
+  {
+    "name": "Nethamba Ndodzo ",
+    "studentNumber": 26064057.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T15:19:28.880000"
+  },
+  {
+    "name": "Mphahlele TR",
+    "studentNumber": 23030092.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:21:50.297000"
+  },
+  {
+    "name": "CHAUKE MAHLORI DARREL",
+    "studentNumber": 24076831.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:22:03.226000"
+  },
+  {
+    "name": "Magoma Tokologo ",
+    "studentNumber": 24024118.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:23:32.435000"
+  },
+  {
+    "name": "Sindokuhle Faku ",
+    "studentNumber": 25006471.0,
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T15:24:06.175000"
+  },
+  {
+    "name": "Khorommbi Mpho ",
+    "studentNumber": 25002879.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:24:24.657000"
+  },
+  {
+    "name": "Makatu Emmanuel",
+    "studentNumber": 26072605.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:24:26.369000"
+  },
+  {
+    "name": "Sithaba VH",
+    "studentNumber": 25019845.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:24:29.327000"
+  },
+  {
+    "name": "MAKHUVHA NDIVHO",
+    "studentNumber": 26021885.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:24:59.710000"
+  },
+  {
+    "name": "Zenth Nkuna",
+    "studentNumber": 24017667.0,
+    "lab": "Lab 7",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:27:10.864000"
+  },
+  {
+    "name": "Hlamulo",
+    "studentNumber": 24029046.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T15:27:35.499000"
+  },
+  {
+    "name": "Mmboneni zwivhuya",
+    "studentNumber": 25015755.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T15:28:27.027000"
+  },
+  {
+    "name": "MUNYAI TSHIMANGADZO ",
+    "studentNumber": 25031434.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T15:28:53.650000"
+  },
+  {
+    "name": "Sambo Bongiwe",
+    "studentNumber": 25034725.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:28:55.467000"
+  },
+  {
+    "name": "Nemalili Akonaho ",
+    "studentNumber": 26007578.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:30:07.694000"
+  },
+  {
+    "name": "Tembe Elias Vusumuzi ",
+    "studentNumber": 26005172.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T15:30:47.898000"
+  },
+  {
+    "name": "Mudzanani Rodzula",
+    "studentNumber": 24038219.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:31:49.709000"
+  },
+  {
+    "name": "Khetho Tshikuvhe",
+    "studentNumber": 23005976.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:33:21.497000"
+  },
+  {
+    "name": "Managa Thuso Dankie ",
+    "studentNumber": 25048702.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T15:38:14.614000"
+  },
+  {
+    "name": "Mulaudzi Rendani ",
+    "studentNumber": 25004426.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:40:13.962000"
+  },
+  {
+    "name": "Raudzingana shudufhadzo ",
+    "studentNumber": 26002056.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T15:40:35.585000"
+  },
+  {
+    "name": "Nyandano Mathiloli ",
+    "studentNumber": 24046772.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T15:41:11.188000"
+  },
+  {
+    "name": "MUDAU TSUMBEDZO COLLEN ",
+    "studentNumber": 26039238.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:42:08.749000"
+  },
+  {
+    "name": "Nevhukalanga Shothodzo ",
+    "studentNumber": 26039224.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:42:16.932000"
+  },
+  {
+    "name": "Livhuwani Precious Netonanda ",
+    "studentNumber": 26073853.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:42:20.687000"
+  },
+  {
+    "name": "Shai Tlaisego Queen ",
+    "studentNumber": 23014244.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T15:43:38.100000"
+  },
+  {
+    "name": "Magwaba rofhiwa queen ",
+    "studentNumber": 26005636.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T15:44:14.028000"
+  },
+  {
+    "name": "Masethembi Phathutshedzo ",
+    "studentNumber": 26014241.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T15:44:17.685000"
+  },
+  {
+    "name": "Nemadodzi Tshimangadzo ",
+    "studentNumber": 24041469.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T15:45:43.174000"
+  },
+  {
+    "name": "Padon Nyathi ",
+    "studentNumber": 26024886.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:47:19.654000"
+  },
+  {
+    "name": "Matshanisi Ngangoho ",
+    "studentNumber": 24026550.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T15:49:12.744000"
+  },
+  {
+    "name": "Molopa Mohale",
+    "studentNumber": 26092839.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T15:51:32.740000"
+  },
+  {
+    "name": "Muleya K",
+    "studentNumber": 23005777.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T15:51:34.657000"
+  },
+  {
+    "name": "Sebola K ",
+    "studentNumber": 25056538.0,
+    "lab": "Lab 7",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:51:59.610000"
+  },
+  {
+    "name": "Phuravhathu onndwela ",
+    "studentNumber": 25016073.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T15:52:09.035000"
+  },
+  {
+    "name": "Mashele Rifumo ",
+    "studentNumber": 26073511.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T15:53:44.105000"
+  },
+  {
+    "name": "Sazile Ndwandwe ",
+    "studentNumber": 26081481.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T15:55:50.441000"
+  },
+  {
+    "name": "Khoza Talenta",
+    "studentNumber": 24004763.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:57:16.123000"
+  },
+  {
+    "name": "Nicole Omondi ",
+    "studentNumber": 23025060.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T15:57:40.481000"
+  },
+  {
+    "name": "Rakabe Karabo Freshly ",
+    "studentNumber": 26015233.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T15:58:33.176000"
+  },
+  {
+    "name": "Willy Thabelo mafadza",
+    "studentNumber": 25089245.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:59:01.467000"
+  },
+  {
+    "name": "Thabelo mafadza",
+    "studentNumber": 25089245.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T15:59:46.828000"
+  },
+  {
+    "name": "Nyiko Kubayi ",
+    "studentNumber": 24049015.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T16:03:31.911000"
+  },
+  {
+    "name": "Tshisikamulilo Lufuno ",
+    "studentNumber": 25090736.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T16:05:13.067000"
+  },
+  {
+    "name": "Netsianda Ronewa",
+    "studentNumber": 26005942.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T16:10:12.464000"
+  },
+  {
+    "name": "Ramudzuli Frank Jnr Magidi",
+    "studentNumber": 26042475.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T16:10:47.901000"
+  },
+  {
+    "name": "Netsianda Ronewa ",
+    "studentNumber": 26005942.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T16:10:48.660000"
+  },
+  {
+    "name": "Nelwamondo Funani junior",
+    "studentNumber": 25066957.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T16:11:17.116000"
+  },
+  {
+    "name": "Thendo Makuya",
+    "studentNumber": 26041859.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T16:12:09.765000"
+  },
+  {
+    "name": "Nemalamangwa Ndivho ",
+    "studentNumber": 25062874.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T16:13:08.506000"
+  },
+  {
+    "name": "Mukhwathi Faresa ",
+    "studentNumber": 25045200.0,
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T16:13:28.653000"
+  },
+  {
+    "name": "Dombo Mukondeleli Mercy ",
+    "studentNumber": 24069046.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T16:13:35.508000"
+  },
+  {
+    "name": "Mulaudzi Tshanduko",
+    "studentNumber": 24047243.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T16:14:24.511000"
+  },
+  {
+    "name": "RABUMBULU  THABELO ",
+    "studentNumber": 25059469.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T16:17:24.268000"
+  },
+  {
+    "name": "Segogela Selome Necia ",
+    "studentNumber": 26050930.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T16:20:17.125000"
+  },
+  {
+    "name": "TSHILOWA KHAVHARENDWE",
+    "studentNumber": 25074428.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T16:23:57.715000"
+  },
+  {
+    "name": "Vele Londani ",
+    "studentNumber": 23026772.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T16:25:38.266000"
+  },
+  {
+    "name": "Madia Mukovhe",
+    "studentNumber": 24027506.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T16:35:25.061000"
+  },
+  {
+    "name": "MDAKA SIBUSISO APPRECIATE",
+    "studentNumber": 26101549.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T16:38:40.180000"
+  },
+  {
+    "name": "Munyai Mboneni",
+    "studentNumber": 26080265.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T16:41:13.351000"
+  },
+  {
+    "name": "Pitso mkansi",
+    "studentNumber": 25073826.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T16:45:59.122000"
+  },
+  {
+    "name": "Modiba Mphalo Shantel ",
+    "studentNumber": 25048053.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T16:50:37.014000"
+  },
+  {
+    "name": "Vunene Benediction mhlanga ",
+    "studentNumber": 26035988.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T16:52:14.405000"
+  },
+  {
+    "name": "Nemakanga Rotondwa ",
+    "studentNumber": 25088684.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T16:55:15.658000"
+  },
+  {
+    "name": "Kateko ",
+    "studentNumber": 26098585.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T16:56:21.822000"
+  },
+  {
+    "name": "Korede Bariu Ogundipe ",
+    "studentNumber": 26075717.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:02:39.823000"
+  },
+  {
+    "name": "Precious makahlola ",
+    "studentNumber": 26024185.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:03:01.781000"
+  },
+  {
+    "name": "Mutshidzi Makhaga ",
+    "studentNumber": 26933149.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:06:13.684000"
+  },
+  {
+    "name": "Miyambo Angel Ntsako ",
+    "studentNumber": 26026656.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:06:57.458000"
+  },
+  {
+    "name": "Luwanda Tshabalala ",
+    "studentNumber": 26008209.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:07:02.792000"
+  },
+  {
+    "name": "Christopher chiloane ",
+    "studentNumber": 24077979.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:08:24.976000"
+  },
+  {
+    "name": "Awodwa Kondlo",
+    "studentNumber": 25027042.0,
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T17:08:36.620000"
+  },
+  {
+    "name": "Dzwuguda Rokunda Prayer ",
+    "studentNumber": 26084764.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:10:09.943000"
+  },
+  {
+    "name": "Hamisi vusani ",
+    "studentNumber": 26034052.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T17:16:27.439000"
+  },
+  {
+    "name": "Mufamadi Akonaho ",
+    "studentNumber": 24010701.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:18:48.439000"
+  },
+  {
+    "name": "Manavhela Promise ",
+    "studentNumber": 23036915.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:19:04.029000"
+  },
+  {
+    "name": "Matshinyatsimbi Mutangwa ",
+    "studentNumber": 24025435.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:20:55.464000"
+  },
+  {
+    "name": "Cheyeza",
+    "studentNumber": 23019818.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:23:01.248000"
+  },
+  {
+    "name": "Thabethe Nosipho Casie ",
+    "studentNumber": 26093930.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:23:17.568000"
+  },
+  {
+    "name": "Mmbengeni Ndivheafhi ",
+    "studentNumber": 24033680.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T17:25:34.587000"
+  },
+  {
+    "name": "Ralukake anpsarisaho lonely ",
+    "studentNumber": 24000105.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:32:32.352000"
+  },
+  {
+    "name": "Munzhelele Akonaho ",
+    "studentNumber": 26023208.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T17:33:15.457000"
+  },
+  {
+    "name": "Mkhomazi khomelelani ",
+    "studentNumber": 25085691.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:34:06.681000"
+  },
+  {
+    "name": "Neduvhuledza Anza",
+    "studentNumber": 25088951.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:34:19.778000"
+  },
+  {
+    "name": "Vhutali khorommbi ",
+    "studentNumber": 25037909.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T17:36:11.919000"
+  },
+  {
+    "name": "Nevhutalu Rinae ",
+    "studentNumber": 26079060.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T17:38:53.571000"
+  },
+  {
+    "name": "Munarini Phathutsheddzo",
+    "studentNumber": 26061004.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:40:02.859000"
+  },
+  {
+    "name": "Mushwana Faith Nyeleti ",
+    "studentNumber": 26033465.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T17:41:42.820000"
+  },
+  {
+    "name": "INNOCENT",
+    "studentNumber": "MADUWA",
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T17:42:13.116000"
+  },
+  {
+    "name": "Chabalala NN",
+    "studentNumber": 26101335.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T17:43:04.580000"
+  },
+  {
+    "name": "MAKWA MASITHA",
+    "studentNumber": 26048824.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:52:36.645000"
+  },
+  {
+    "name": "Themeli Murendeni ",
+    "studentNumber": 24004877.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T17:55:05.669000"
+  },
+  {
+    "name": "Nopotso Abulele",
+    "studentNumber": 26013051.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T17:55:16.546000"
+  },
+  {
+    "name": "Dakalo muthivhi Romeo ",
+    "studentNumber": 26007483.0,
+    "lab": "Lab 9",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T17:55:23.842000"
+  },
+  {
+    "name": "Nemukula Mulweli Adrian ",
+    "studentNumber": 24000226.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:55:30.771000"
+  },
+  {
+    "name": "Nokwazi Amanda Ngwenya ",
+    "studentNumber": 25016498.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:56:02.263000"
+  },
+  {
+    "name": "Thavhanyedza Ampfarisaho ",
+    "studentNumber": 25075305.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:56:29.618000"
+  },
+  {
+    "name": "Mudzunga m",
+    "studentNumber": 24026781.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T17:56:30.177000"
+  },
+  {
+    "name": "Thikhathali Mphaphuli",
+    "studentNumber": 26008997.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T17:56:40.661000"
+  },
+  {
+    "name": "Nemukula Mulinda",
+    "studentNumber": 25059652.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:56:52.633000"
+  },
+  {
+    "name": "Netshidzati U",
+    "studentNumber": 23004806.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T17:57:05.619000"
+  },
+  {
+    "name": "Makwa Masitha ",
+    "studentNumber": 26048826.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:58:07.316000"
+  },
+  {
+    "name": "Khwinana Phuti",
+    "studentNumber": 25021680.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T17:58:10.630000"
+  },
+  {
+    "name": "Matlatse Tumelo Elicent ",
+    "studentNumber": 24004357.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:58:13.809000"
+  },
+  {
+    "name": "Kgothatso Shelot Komane ",
+    "studentNumber": 26001662.0,
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T17:58:31.674000"
+  },
+  {
+    "name": "Thomoli Mulisa",
+    "studentNumber": 26010691.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T17:59:06.495000"
+  },
+  {
+    "name": "Tshavhungwe Tshifhiwa sincere",
+    "studentNumber": 23016726.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T17:59:41.907000"
+  },
+  {
+    "name": "Madileng Adelaide ",
+    "studentNumber": 24042560.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:00:05.823000"
+  },
+  {
+    "name": "rathari denzhe",
+    "studentNumber": 24002793.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T18:00:17.055000"
+  },
+  {
+    "name": "Ntsakisi Whitney Zaba ",
+    "studentNumber": 25088522.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T18:00:23.593000"
+  },
+  {
+    "name": "Mamphwe Rotshidzwa ",
+    "studentNumber": 25077351.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:01:14.226000"
+  },
+  {
+    "name": "Unarine Mutshafa",
+    "studentNumber": 24014680.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:01:20.530000"
+  },
+  {
+    "name": "Eslin Wanga Shimati ",
+    "studentNumber": 21004276.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T18:01:58.956000"
+  },
+  {
+    "name": "Cleophus Zwivhuya Tshinyelani ",
+    "studentNumber": 25083251.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T18:02:10.568000"
+  },
+  {
+    "name": "Vutlharhi Eternity mandlhazi ",
+    "studentNumber": 26105410.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T18:02:21.991000"
+  },
+  {
+    "name": "Adaho Mudau",
+    "studentNumber": 26104317.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T18:02:32.731000"
+  },
+  {
+    "name": "Legodi Dominic",
+    "studentNumber": 26042817.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T18:03:18.712000"
+  },
+  {
+    "name": "Just ndlovu ",
+    "studentNumber": 24014825.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T18:04:24.869000"
+  },
+  {
+    "name": "Langa Tiishetso",
+    "studentNumber": 25018923.0,
+    "lab": "Lab 8",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T18:05:33.693000"
+  },
+  {
+    "name": "Matombo Phathutshedzo Busisiwe ",
+    "studentNumber": 24018579.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:06:21.209000"
+  },
+  {
+    "name": "Twala HK ",
+    "studentNumber": 23031000.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:06:53.344000"
+  },
+  {
+    "name": "Kgosane Mashaka Sefanyetso ",
+    "studentNumber": 26002391.0,
+    "lab": "Lab 9",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T18:08:56.915000"
+  },
+  {
+    "name": "Nemakanga Ompha-vho",
+    "studentNumber": 24030298.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T18:09:25.660000"
+  },
+  {
+    "name": "Reason maburuse",
+    "studentNumber": 23000560.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T18:10:29.439000"
+  },
+  {
+    "name": "Justine Tiyani Nkuna ",
+    "studentNumber": 25025865.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T18:10:29.877000"
+  },
+  {
+    "name": "Ramurafhi Elekanyani Colbert ",
+    "studentNumber": 26055618.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T18:10:58.921000"
+  },
+  {
+    "name": "Manukha Pfunzo ",
+    "studentNumber": 25035765.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T18:11:04.520000"
+  },
+  {
+    "name": "Excellent Desmond Moropane ",
+    "studentNumber": 23017248.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T18:12:38.711000"
+  },
+  {
+    "name": "Muthige Ndivhuwo",
+    "studentNumber": 26060168.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T18:14:29.639000"
+  },
+  {
+    "name": "Muthige Tshidaho ",
+    "studentNumber": 25081061.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T18:15:17.376000"
+  },
+  {
+    "name": "Rambuwani Masindi ",
+    "studentNumber": 25011804.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T18:15:42.135000"
+  },
+  {
+    "name": "Mavhina Rowen Rohangwela ",
+    "studentNumber": 24043742.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T18:16:07.088000"
+  },
+  {
+    "name": "Malebo Segwatlhe ",
+    "studentNumber": 24046144.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T18:17:46.296000"
+  },
+  {
+    "name": "MUTHUTHULI PHATHUTSHEDZO ",
+    "studentNumber": 25030164.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-20T18:18:03.351000"
+  },
+  {
+    "name": "Munyai PN",
+    "studentNumber": 24018783.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:18:16.802000"
+  },
+  {
+    "name": "Lehong TM",
+    "studentNumber": 25028046.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T18:19:52.698000"
+  },
+  {
+    "name": "patel aamir",
+    "studentNumber": 25029059.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T18:22:11.361000"
+  },
+  {
+    "name": "Adivhaho Muleya",
+    "studentNumber": 25008553.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T18:23:03.308000"
+  },
+  {
+    "name": "Madiege Sophy Mamarothi ",
+    "studentNumber": 25055246.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:24:03.712000"
+  },
+  {
+    "name": "Manavhela Eva ",
+    "studentNumber": 26053382.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T18:24:44.342000"
+  },
+  {
+    "name": "Siyamthanda Bulungu",
+    "studentNumber": 26033452.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T18:27:12.683000"
+  },
+  {
+    "name": "Rabambi Raymond",
+    "studentNumber": 23006543.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:28:09.539000"
+  },
+  {
+    "name": "Mukwevho Alondaho ",
+    "studentNumber": 26077675.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T18:29:34.517000"
+  },
+  {
+    "name": "Moiane Lebo",
+    "studentNumber": 25083809.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T18:33:23.968000"
+  },
+  {
+    "name": "Makamo Ndzalama ",
+    "studentNumber": 25046311.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:40:31.394000"
+  },
+  {
+    "name": "Molepo Boygie ",
+    "studentNumber": 25037472.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:43:29.261000"
+  },
+  {
+    "name": "Mamabolo Thapelo Martin ",
+    "studentNumber": 25072241.0,
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T18:43:58.793000"
+  },
+  {
+    "name": "Molepo Boygie ",
+    "studentNumber": 25037472.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:48:40.871000"
+  },
+  {
+    "name": "Matumba Lutendo",
+    "studentNumber": 25083503.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T18:50:57.639000"
+  },
+  {
+    "name": "Mudau phethani Emmanuel ",
+    "studentNumber": 23019270.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T18:54:51.233000"
+  },
+  {
+    "name": "Polite ",
+    "studentNumber": "Lekhuleni ",
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T19:02:03.053000"
+  },
+  {
+    "name": "Nevhusenga Hudivha ",
+    "studentNumber": 23019263.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T19:04:48.722000"
+  },
+  {
+    "name": "Mahadululau muvhuya",
+    "studentNumber": 25030812.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T19:05:21.843000"
+  },
+  {
+    "name": "Mutavhatsindi Dembetsiko ",
+    "studentNumber": 26005849.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T19:05:48.296000"
+  },
+  {
+    "name": "Emmanuel ",
+    "studentNumber": 23022219.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T19:06:29.287000"
+  },
+  {
+    "name": "Tshinavhe Hulisani Angel ",
+    "studentNumber": 26026765.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T19:06:33.485000"
+  },
+  {
+    "name": "Makuya Orifha",
+    "studentNumber": 25057848.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T19:07:01.399000"
+  },
+  {
+    "name": "Maumela thakhani ",
+    "studentNumber": 23025411.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T19:08:23.395000"
+  },
+  {
+    "name": "Mulaudzi Fholisani",
+    "studentNumber": 23010714.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T19:08:39.202000"
+  },
+  {
+    "name": "Emmanuel skhumbuzo kock",
+    "studentNumber": 23022219.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T19:08:42.193000"
+  },
+  {
+    "name": "NHLAHLA ABSALOM KUBAYI",
+    "studentNumber": 25043334.0,
+    "lab": "Lab 9",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T19:12:14.728000"
+  },
+  {
+    "name": "Madzhie Glory",
+    "studentNumber": 23011212.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T19:12:45.620000"
+  },
+  {
+    "name": "Njabulo Bambo",
+    "studentNumber": 26032270.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T19:16:52.452000"
+  },
+  {
+    "name": "Netshitungulu mukonazwothe",
+    "studentNumber": 23001435.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T19:26:19.383000"
+  },
+  {
+    "name": "Morathi Ingrid Sethoga ",
+    "studentNumber": 24074738.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T19:30:39.210000"
+  },
+  {
+    "name": "Hope Ritshidze Muridili ",
+    "studentNumber": 25040450.0,
+    "lab": "Lab 5",
+    "day": "Wednesday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T19:34:28.270000"
+  },
+  {
+    "name": "MOTHEMI JACKSON CHASKEY ",
+    "studentNumber": 23009178.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T19:37:06.793000"
+  },
+  {
+    "name": "MULAUDZI RENDANI OSCAR ",
+    "studentNumber": 26054383.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:50-16:40",
+    "null": "2026-04-20T19:38:13.285000"
+  },
+  {
+    "name": "Masakona Murendwa",
+    "studentNumber": 26034309.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T19:41:02.331000"
+  },
+  {
+    "name": "Mahadulula Mueletshedzi ",
+    "studentNumber": 24020598.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T19:42:24.534000"
+  },
+  {
+    "name": "khangale ",
+    "studentNumber": "FHULUFHELO ",
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-20T19:57:54.683000"
+  },
+  {
+    "name": "Ngobeni Jabulani Bairon ",
+    "studentNumber": 25064855.0,
+    "lab": "Lab 8",
+    "day": "Thursday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T21:47:38.857000"
+  },
+  {
+    "name": "Lefa Marutlulle",
+    "studentNumber": 25008511.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-20T22:10:54.812000"
+  },
+  {
+    "name": "Netili Rinae ",
+    "studentNumber": 23001144.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-20T22:58:05.658000"
+  },
+  {
+    "name": "Rhandu Thando Chauke ",
+    "studentNumber": 25002955.0,
+    "lab": "Lab 6",
+    "day": "Friday",
+    "time": "15:00-15:46",
+    "null": "2026-04-20T23:02:24.553000"
+  },
+  {
+    "name": "Mudzusi Mulalo Hope ",
+    "studentNumber": 24049490.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "09:00-09:50",
+    "null": "2026-04-21T05:40:45.317000"
+  },
+  {
+    "name": "Munzhelele Asaria ",
+    "studentNumber": 26040348.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "10:00-10:50",
+    "null": "2026-04-21T07:05:42.182000"
+  },
+  {
+    "name": "Netshidzati Mpho ",
+    "studentNumber": 26007598.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-21T07:28:08.296000"
+  },
+  {
+    "name": "Netshidzati Mpho ",
+    "studentNumber": 26007598.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-21T07:30:26.069000"
+  },
+  {
+    "name": "Masithulela humbulani",
+    "studentNumber": 24011603.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-21T07:45:24.755000"
+  },
+  {
+    "name": "Bandile Vusi Mabena",
+    "studentNumber": 24029269.0,
+    "lab": "Lab 7",
+    "day": "Friday",
+    "time": "12:00-12:50",
+    "null": "2026-04-21T08:07:49.624000"
+  },
+  {
+    "name": "maluleke unique nsuku ",
+    "studentNumber": 23022337.0,
+    "lab": "Lab 5",
+    "day": "Friday",
+    "time": "14:00-14:50",
+    "null": "2026-04-21T09:19:04.306000"
+  },
+  {
+    "name": "Mushwana Lorracia",
+    "studentNumber": 23025763.0,
+    "lab": "Lab 5",
+    "day": "Thursday",
+    "time": "10:00-10:50",
+    "null": "2026-04-21T11:41:41.884000"
+  },
+  {
+    "name": "Mfete Kearabetswe Chantell ",
+    "studentNumber": 25025000.0,
+    "lab": "Lab 6",
+    "day": "Thursday",
+    "time": "15:00-15:46",
+    "null": "2026-04-21T12:01:26.395000"
+  },
+  {
+    "name": "Njabulo Honey Khumalo ",
+    "studentNumber": 24033160.0,
+    "lab": "Lab 7",
+    "day": "Thursday",
+    "time": "09:00-09:50",
+    "null": "2026-04-21T12:20:18.355000"
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  },
+  {
+    "name": null,
+    "studentNumber": null,
+    "lab": null,
+    "day": null,
+    "time": null,
+    "null": null
+  }
+]
